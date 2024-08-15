@@ -1,4 +1,4 @@
-# 💣 # Araba Üretim Programı
+# 💣  Araba Üretim Programı
 
 Bu program, kullanıcıdan aldığı bilgilerle araba üretimini simüle eder ve oluşturulan arabaları bir listeye kaydeder. Program, araba üretim sürecini kullanıcının girdilerine dayalı olarak gerçekleştirir.
 
